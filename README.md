@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-https://evan-ds.github.io/expense-analyzer/
+https://evan-ds.github.io/expense-analyzer-demo-python-static/
 
 ---
 
