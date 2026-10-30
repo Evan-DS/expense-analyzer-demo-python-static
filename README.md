@@ -1,6 +1,6 @@
 # Expense Analyzer
 
-## Live Demo
+## Live Demo - OUTDATED 2025
 
 https://evan-ds.github.io/expense-analyzer-demo-python-static/
 
